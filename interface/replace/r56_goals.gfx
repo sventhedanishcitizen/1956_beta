@@ -1941,6 +1941,15 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_r56_focus_army_elite"
 		texturefile = "gfx/interface/goals/goal_r56_focus_army_elite.dds"
+	}	
+	SpriteType = {
+		name = "GFX_focus_alb_royal_shield"
+		texturefile = "gfx/interface/goals/focus_alb_royal_shield.dds"
+				
+	}
+	SpriteType = {
+		name = "GFX_focus_commie_kill_zog"
+		texturefile = "gfx/interface/goals/focus_commie_kill_zog.dds"
 				
 	}	
 }
