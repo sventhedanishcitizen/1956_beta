@@ -192,7 +192,10 @@ country = {
 		available_if_capitulated = yes
 
 		completion_reward = {
-			SOV = { country_event = soviet.92 }
+
+		completion_reward = {
+			SOV = {
+				country_event = generic.2
 			}
 		}
 		
@@ -272,8 +275,9 @@ country = {
 
 		available_if_capitulated = yes
 
-		completion_reward = {
-			ENG = { country_event = britain.92 }
+                completion_reward = {
+			ENG = {
+				country_event = generic.2
 			}
 		}
 		
@@ -626,8 +630,9 @@ country = {
 
 		available_if_capitulated = yes
 
-		completion_reward = {
-		GER = { country_event = germany.1001 }
+                completion_reward = {
+			SOV = {
+				country_event = generic.2
 			}
 		}
 		
