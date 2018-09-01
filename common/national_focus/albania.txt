@@ -1167,7 +1167,7 @@ country = {
 			}
 			create_corps_commander = {
 			name = "Spiro Theodori Moisiu"
-			picture = "alb_gen.dds"
+			picture = "alb_general_spiro_moisiu.dds"
 			traits = { brilliant_strategist }
 			skill = 2
 			attack_skill = 2
